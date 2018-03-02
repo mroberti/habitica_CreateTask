@@ -1,0 +1,1 @@
+It's a simple chunk of code that once you enter your personal Habitica API Key and user ID# you can then use to create new tasks, this one creates daily on-offs. It really helped me to use Habitica to get some productivity tasks and daily habits (both good and bad) into play and I enjoyed using Habitica daily.
